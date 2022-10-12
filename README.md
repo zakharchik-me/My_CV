@@ -29,6 +29,8 @@ Personal tutor and Teacher in ITMO
 Teaching children algorithms and data structures/math Olympiads
 <p>
 Teaching students the A&DS, checking the laborotory works
+<p>
+<strong>Hackathones 
    </td>
   </tr>
   <tr>
@@ -38,12 +40,36 @@ Teaching students the A&DS, checking the laborotory works
 Participant of ML_Is_Union team </strong>
 <p>
 Creation of recommendations for products of well-known companies for a person based on social-media data
+<p>
+
+<strong>Digital Hack – 2022 </strong> 
+<p>
+Winner 
+<p>
+Computer vision object detection + desktop app 
+  
+<strong>Gazprom Neftcode – 2022</strong>
+<p>
+Case of predictions
+<p>
+
+<strong>Open Data Science Hack - 2021</strong>
+<p>
+Participant
+
+<strong>Digital Hack - 2022</strong> 
+<p>
+VK case of prediction and recommend system - Team Lead/MLE
+
+<strong>Rosselhos bank Hack - 2022</strong>
+<p>Recommendation system – MLE specialist
+
    </td>
   </tr>
   <tr>
    <td><strong>SKILLS</strong>
    </td>
-   <td><strong>Python</strong>: NumPy, Sklearn and ecosystem frameworks, Matplotlib
+   <td><strong>Python</strong>: NumPy, Sklearn and ecosystem frameworks, Pythorch, Matplotlib, RSNN, YOLO
 <p>
 <strong>Must­have</strong>: Git, Bash, Linux, Jupyter, VS, Pycharm, SQL
 <p>
@@ -70,7 +96,7 @@ Strong Math base
    </td>
    <td><strong>  Professional</strong>: distributed and highload systems, deep learning in NLP, Neuronets 
 <p>
-<strong>  Other</strong>: Saxophone/Drums/Netflix
+<strong>  Other</strong>: Saxophone/Guitar/Drums/Netflix
    </td>
   </tr>
 </table>
