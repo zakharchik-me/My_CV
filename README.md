@@ -24,11 +24,11 @@ Computer Technologies department, Software engeneering
    <td>
 <strong>Self-employed                                                                                                        </strong> September 2021- Now
 <p>
-Personal tutor and Teacher in ITMO
+Personal tutor and Teacher
 <p>
-Teaching children algorithms and data structures/math Olympiads
+  Teaching children algorithms and data structures/math Olympiads </p>
 <p>
-Teaching students the A&DS, checking the laborotory works
+  Teaching students the A&DS, checking the laborotory works </p>
 <p>
 <strong>Hackathones 
    </td>
@@ -40,13 +40,9 @@ Teaching students the A&DS, checking the laborotory works
 Participant of ML_Is_Union team </strong>
 <p>
 Creation of recommendations for products of well-known companies for a person based on social-media data
-<p>
-
-<strong>Digital Hack – 2022 </strong> 
-<p>
-Winner 
-<p>
-Computer vision object detection + desktop app 
+ <p><strong>Digital Hack – 2022 </strong></p>
+Winner
+<p>Computer vision object detection + desktop app </p>
   
 <strong>Gazprom Neftcode – 2022</strong>
 <p>
