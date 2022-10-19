@@ -9,7 +9,7 @@
   <tr>
    <td><strong>EDUCATION</strong>
    </td>
-   <td><strong><a href="http://www.example.com/my-university">ITMO University</a></strong>, Saint­Petersburg, Russia	2020 – 2024
+   <td><strong><a href="http://www.example.com/my-university">ITMO University</a></strong>, Saint­Petersburg, Russia	2021 – 2025
 <p>
 Bachleor
 <p>
@@ -27,8 +27,6 @@ Computer Technologies department, Software engeneering
 Personal tutor and Teacher
 <p>
   Teaching children algorithms and data structures/math Olympiads </p>
-<p>
-  Teaching students the A&DS, checking the laborotory works </p>
 <p>
 <strong>Hackathones 
    </td>
